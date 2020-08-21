@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867779676504",
+    "firebase_url": "https://beacontcc-gentil.firebaseio.com",
+    "project_id": "beacontcc-gentil",
+    "storage_bucket": "beacontcc-gentil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867779676504:android:2d2683f5187212f0bdbd2d",
+        "android_client_info": {
+          "package_name": "com.gustavogentil.beacontcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867779676504-rkoclfiuu2pd1ef4smhdv4iv6jc7t97f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCatNNiuuo0Oq3hvAxKKzEHKhBB8wyGEDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867779676504-rkoclfiuu2pd1ef4smhdv4iv6jc7t97f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
